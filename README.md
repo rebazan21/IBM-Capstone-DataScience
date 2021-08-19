@@ -1,7 +1,7 @@
 # IBM-Data-Science-Capstone
 This repository is for save the files from Data Science Specialization Final Project (Capstone).
 
-## Context:
+## Context
 
 Nowadays, spatial launches are very popular because of the advancement of technology and the reduction of costs.
 SpaceX, a big company in this industry, has reduced dramatically its launch cost because they reuse the first stage. 
