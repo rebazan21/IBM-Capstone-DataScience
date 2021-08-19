@@ -1,2 +1,2 @@
-# IBM-Data-Science-Projects
-This repository is for save the Data Science Specialization Projects.
+# IBM-Data-Science-Capstone
+This repository is for save the files from Data Science Specialization Final Project (Capstone).
